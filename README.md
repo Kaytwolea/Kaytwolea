@@ -6,14 +6,12 @@ A Frontend Developer.
 
 <h3>💼 Things that I'm currently working on:</h3>
 <details>
-  <summary>I'm currently working on a couple of things besides the college. </summary>
+  <summary>I am a very proactive and intelligent frontend developer. </summary>
   <ul>
     <br>
-    <li>Taking a Swift Online Course, and looking forward to contribute to any iOS open source project.</li>
-    <li>Learning editing photos by using Adobe Lighroom, as well as drawing some vectors in Adobe Illustrator.</li>
+    <li>I have high level design and functionality skills.</li>
+    <li>I am a very experienced frontend developer</li>
     <li>Looking forward to take a Web Development Course in future besides school curriculum.</li>
-    <li>AInquiring more about UX/UI.</li>
-    <li>🔜</li>
   </ul>
 </details>
 
@@ -34,7 +32,7 @@ A Frontend Developer.
 
 **Languages and Frameworks:**
 <p align="left">
-  <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/react/react_48x48.png" alt="swift" width="40" height="40" /></code>&nbsp;
+  <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/react/react_48x48.png" alt="react" width="40" height="40" /></code>&nbsp;
   <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript_48x48.png" alt="C" width="40" height="40" /></code>&nbsp;
   <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="git" width="40" height="40" /></code>&nbsp;
   <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/html/html_48x48.png" alt="HTML" width="40" height="40" /></code>&nbsp;
