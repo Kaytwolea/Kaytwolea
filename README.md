@@ -2,7 +2,7 @@
 
 ### I'm Temiloluwa Kolapo Paul
 
-A Frontend Developer.
+A Fullstack Developer.
 
 <h3>💼 Things that I'm currently working on:</h3>
 <details>
