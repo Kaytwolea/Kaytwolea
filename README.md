@@ -6,12 +6,12 @@ A Fullstack Developer.
 
 <h3>💼 Things that I'm currently working on:</h3>
 <details>
-  <summary>I am a very proactive and intelligent frontend developer. </summary>
+  <summary>I am a very proactive and intelligent FullStack developer. </summary>
   <ul>
     <br>
     <li>I have high level design and functionality skills.</li>
-    <li>I am a very experienced frontend developer</li>
-    <li>Looking forward to take a Web Development Course in future besides school curriculum.</li>
+    <li>I am a very experienced FullStack developer</li>
+<!--     <li>Looking forward to take a Web Development Course in future besides school curriculum.</li> -->
   </ul>
 </details>
 
@@ -58,7 +58,7 @@ Do ⭐ my repository if you find my project interesting, at least your star coul
 <details>
   <summary>✨ Github Stats</summary>
   <br>
-  <img align="left" alt="Vatana's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vatanachhorn&show_icons=true&theme=dracula" />
+<!--   <img align="left" alt="kaytwolea's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vatanachhorn&show_icons=true&theme=dracula" /> -->
   <br>
   <br>
   <br>
